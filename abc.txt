@@ -1,2 +1,3 @@
 this is a demo file.
 modify without commit.
+modify again and use soft reset to have a try.
