@@ -2,3 +2,4 @@ this is a demo file.
 modify without commit.
 modify again and use soft reset to have a try.
 add a new line in local. now i have modify in remote.
+edit in remote.
